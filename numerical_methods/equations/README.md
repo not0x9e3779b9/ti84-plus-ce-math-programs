@@ -2,6 +2,7 @@
 
 ### Jacobi + Gauss-seidel Formula
 ![Jacobi + Gauss-seidel Formula](../----------------------/Capture%201.png)
+![download](numerical_methods/equations/Jacobi+Gauss-seidel.8xp)
 
 ### CG Conjugate gradient Formula
 ![CG formula](../----------------------/Capture%202.png)
