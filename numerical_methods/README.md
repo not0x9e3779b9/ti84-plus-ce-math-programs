@@ -3,8 +3,7 @@
 This folder contains two types of TI-84 Plus CE programs:
 
 ### 1. equations/
-Programs that display the core formulas for numerical linear algebra
-methods. These are for studying, reference, and viewing the iteration steps.
+Programs that display the formulas for numerical linear algebra methods. These are for studying, reference, and viewing the iteration steps.
 
 ### 2. solvers/
 Programs that perform the actual numerical iterations to solve **Ax = b**.
