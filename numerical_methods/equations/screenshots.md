@@ -5,3 +5,9 @@
 
 ### CG Conjugate gradient Formula
 ![CG formula](numerical_methods/----------------------/Capture 2.png)
+
+### CHOLESKY
+![CG formula](numerical_methods/----------------------/Capture 2.png)
+
+### SPD Strictly Positive Definite 
+![CG formula](numerical_methods/----------------------/Capture 2.png)
