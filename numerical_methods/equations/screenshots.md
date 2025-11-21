@@ -1,7 +1,7 @@
 # Equations Programs Screenshots
 
 ### Jacobi + Gauss-seidel Formula
-![Jacobi Formula](Capture 1.png)
+![Jacobi Formula](numerical_methods/----------------------/Capture 1.png)
 
 ### CG Conjugate gradient Formula
-![CG formula](Capture 2.png)
+![CG formula](numerical_methods/----------------------/Capture 2.png)
