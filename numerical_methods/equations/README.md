@@ -13,6 +13,6 @@
 ![Capture 6](../----------------------/Capture%206.png)
 ![Capture 7](../----------------------/Capture%207.png)
 
-
 ### SPD Strictly Positive Definite 
-![CG formula](numerical_methods/----------------------/Capture 2.png)
+![Capture 3](../----------------------/Capture%208.png)
+![Capture 3](../----------------------/Capture%209.png)
