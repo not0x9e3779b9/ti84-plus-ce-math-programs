@@ -4,7 +4,7 @@
 ![Jacobi + Gauss-seidel Formula](../----------------------/Capture%201.png)
 
 ### CG Conjugate gradient Formula
-![CG formula](numerical_methods/----------------------/Capture 2.png)
+![CG formula](../----------------------/Capture%202.png)
 
 ### CHOLESKY
 ![CG formula](numerical_methods/----------------------/Capture 2.png)
